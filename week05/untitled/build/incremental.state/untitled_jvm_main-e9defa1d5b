@@ -1,0 +1,27 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "dependencies": "org.jetbrains.kotlin:kotlin-stdlib:2.4.20|org.jetbrains.kotlin:kotlin-stdlib:2.4.20",
+        "excludedDependencies": "",
+        "repositories": "https://repo1.maven.org/maven2|https://maven.google.com",
+        "resolveNativeTarget": "",
+        "resolvePlatform": "jvm",
+        "resolveWasmTarget": "",
+        "userCacheRoot": "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {
+        "serializedOutput": "{\"compileClasspath\":[\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\"],\"runtimeClasspath\":[\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\"],\"coordinateOverridesForPublishing\":{}}"
+    },
+    "outputFiles": [
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-29T08:25:44.6073538Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-06T08:24:52.0920965Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

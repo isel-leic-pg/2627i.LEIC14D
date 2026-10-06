@@ -1,0 +1,12 @@
+-cp
+C:\PG\week05\untitled\build\tasks\_untitled_jarJvm\untitled-jvm.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+-ea
+-agentlib:jdwp=transport=dt_socket,address=61805,suspend=y,server=y
+-javaagent:C:\Users\luis.damas\AppData\Local\JetBrains\IntelliJIdea2026.2\captureAgent\debugger-agent.jar=file:///C:/Users/LUIS~1.DAM/AppData/Local/Temp/capture7918204751382253323.props
+-Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+-Ddebugger.agent.enable.coroutines=true
+-Dkotlinx.coroutines.debug.enable.flows.stack.trace=true
+-Dkotlinx.coroutines.debug.enable.mutable.state.flows.stack.trace=true
+-Ddebugger.async.stack.trace.for.all.threads=true
+-Ddebugger.agent.enable.log.capture=true
+MainKt

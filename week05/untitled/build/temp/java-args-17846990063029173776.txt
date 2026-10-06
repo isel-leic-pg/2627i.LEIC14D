@@ -1,0 +1,4 @@
+-cp
+C:\PG\week05\untitled\build\tasks\_untitled_jarJvm\untitled-jvm.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar
+-ea
+MainKt
