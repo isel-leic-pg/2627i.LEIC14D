@@ -1,0 +1,24 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{}",
+        "outputJarPath": "C:\\PG\\week06\\Listas\\build\\tasks\\_Listas_jarJvm\\Listas-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\PG\\week06\\Listas\\build\\artifacts\\CompiledJvmArtifact\\Listasjvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\PG\\week06\\Listas\\build\\artifacts\\CompiledJvmArtifact\\Listasjvm\\kotlin-output\\Ficha_ex3_resolucaoKt.class": "size 2538 mtime 2026-10-13T07:32:26.1940384Z",
+        "C:\\PG\\week06\\Listas\\build\\artifacts\\CompiledJvmArtifact\\Listasjvm\\kotlin-output\\META-INF\\Listas.kotlin_module": "size 51 mtime 2026-10-13T07:32:26.1960396Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\PG\\week06\\Listas\\build\\tasks\\_Listas_jarJvm\\Listas-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\PG\\week06\\Listas\\build\\tasks\\_Listas_jarJvm\\Listas-jvm.jar": "size 2191 mtime 2026-10-13T07:32:26.3244179Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
