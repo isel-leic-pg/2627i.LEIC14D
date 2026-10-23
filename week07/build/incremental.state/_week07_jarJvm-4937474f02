@@ -1,0 +1,25 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\PG\\week07\\build\\tasks\\_week07_jarJvm\\week07-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\Func2Kt.class": "size 1839 mtime 2026-10-23T11:26:09.8061178Z",
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\META-INF\\week07.kotlin_module": "size 45 mtime 2026-10-23T11:26:09.8081238Z",
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\MainKt.class": "size 5730 mtime 2026-10-23T11:26:09.8071267Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\PG\\week07\\build\\tasks\\_week07_jarJvm\\week07-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\PG\\week07\\build\\tasks\\_week07_jarJvm\\week07-jvm.jar": "size 4655 mtime 2026-10-23T11:26:10.0555568Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

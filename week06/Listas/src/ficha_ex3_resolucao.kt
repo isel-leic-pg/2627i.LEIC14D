@@ -5,11 +5,11 @@ fun readLetter(validLetters: String ): Char {
             val letter = line[0].uppercaseChar()
             if ( letter in validLetters ) return letter
         }
+        val ch = 'A'
+        println(ch.toInt())
     }
 }
 fun main() {
-    println("Pense num numero entre 0 e 15")
-    var range = 0..15
     do {
         val middle = (range.last + range.first) / 2
         print("$range: O numero e' maior que $middle ? (S/N) ")

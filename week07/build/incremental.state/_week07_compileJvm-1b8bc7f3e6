@@ -1,0 +1,37 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "java.annotation.processor.generated.dir": "C:\\PG\\week07\\build\\generated\\week07\\main\\src\\apt\\java",
+        "jdk.home": "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\extract.cache\\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.933024.d\\jdk-25.0.4.1+1",
+        "jdk.version": "25.0.4.1",
+        "target.platforms": "JVM",
+        "task.output.root": "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm",
+        "user.settings": "{\"kotlin\":{\"compilerVersion\":\"2.4.20\",\"languageVersion\":null,\"apiVersion\":null,\"compileIncrementally\":true,\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"explicitApi\":\"Disable\",\"debug\":null,\"optimization\":null,\"verbose\":false,\"progressiveMode\":false,\"linkerOptions\":[],\"languageFeatures\":[],\"optIns\":[],\"storeJavaParameterNames\":false,\"freeCompilerArgs\":[],\"compilerPlugins\":[]},\"jvmRelease\":25,\"java\":{\"freeCompilerArgs\":[],\"annotationProcessorOptions\":{},\"compileIncrementally\":false}}"
+    },
+    "inputFiles": [
+        "C:\\PG\\week07\\src",
+        "C:\\PG\\week07\\resources",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\PG\\week07\\resources": "MISSING",
+        "C:\\PG\\week07\\src\\func2.kt": "size 590 mtime 2026-10-23T11:26:04.067Z",
+        "C:\\PG\\week07\\src\\main.kt": "size 761 mtime 2026-10-20T10:08:38.261Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-29T08:25:44.6073538Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-06T08:24:52.0920965Z"
+    },
+    "outputValues": {
+        "jvmCompilerBuildProblems": "[]"
+    },
+    "outputFiles": [
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output"
+    ],
+    "outputFilesState": {
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\Func2Kt.class": "size 1839 mtime 2026-10-23T11:26:09.8061178Z",
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\META-INF\\week07.kotlin_module": "size 45 mtime 2026-10-23T11:26:09.8081238Z",
+        "C:\\PG\\week07\\build\\artifacts\\CompiledJvmArtifact\\week07jvm\\kotlin-output\\MainKt.class": "size 5730 mtime 2026-10-23T11:26:09.8071267Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

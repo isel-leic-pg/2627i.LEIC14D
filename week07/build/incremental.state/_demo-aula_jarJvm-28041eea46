@@ -1,0 +1,24 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\tmp\\demo-aula\\build\\tasks\\_demo-aula_jarJvm\\demo-aula-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output\\META-INF\\demo-aula.kotlin_module": "size 36 mtime 2026-10-20T09:48:08.6329339Z",
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output\\MainKt.class": "size 5733 mtime 2026-10-20T09:48:08.6319346Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\demo-aula\\build\\tasks\\_demo-aula_jarJvm\\demo-aula-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\demo-aula\\build\\tasks\\_demo-aula_jarJvm\\demo-aula-jvm.jar": "size 3476 mtime 2026-10-20T09:48:08.8706491Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,35 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "java.annotation.processor.generated.dir": "C:\\tmp\\demo-aula\\build\\generated\\demo-aula\\main\\src\\apt\\java",
+        "jdk.home": "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\extract.cache\\c93db5a50c-OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.zip.933024.d\\jdk-25.0.4.1+1",
+        "jdk.version": "25.0.4.1",
+        "target.platforms": "JVM",
+        "task.output.root": "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm",
+        "user.settings": "{\"kotlin\":{\"compilerVersion\":\"2.4.20\",\"languageVersion\":null,\"apiVersion\":null,\"compileIncrementally\":true,\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"explicitApi\":\"Disable\",\"debug\":null,\"optimization\":null,\"verbose\":false,\"progressiveMode\":false,\"linkerOptions\":[],\"languageFeatures\":[],\"optIns\":[],\"storeJavaParameterNames\":false,\"freeCompilerArgs\":[],\"compilerPlugins\":[]},\"jvmRelease\":25,\"java\":{\"freeCompilerArgs\":[],\"annotationProcessorOptions\":{},\"compileIncrementally\":false}}"
+    },
+    "inputFiles": [
+        "C:\\tmp\\demo-aula\\src",
+        "C:\\tmp\\demo-aula\\resources",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-29T08:25:44.6073538Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-06T08:24:52.0920965Z",
+        "C:\\tmp\\demo-aula\\resources": "MISSING",
+        "C:\\tmp\\demo-aula\\src\\main.kt": "size 761 mtime 2026-10-20T09:48:03.134Z"
+    },
+    "outputValues": {
+        "jvmCompilerBuildProblems": "[]"
+    },
+    "outputFiles": [
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output\\META-INF\\demo-aula.kotlin_module": "size 36 mtime 2026-10-20T09:48:08.6329339Z",
+        "C:\\tmp\\demo-aula\\build\\artifacts\\CompiledJvmArtifact\\demo-aulajvm\\kotlin-output\\MainKt.class": "size 5733 mtime 2026-10-20T09:48:08.6319346Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
