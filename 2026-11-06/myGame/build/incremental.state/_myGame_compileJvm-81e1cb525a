@@ -1,0 +1,49 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "java.annotation.processor.generated.dir": "C:\\tmp\\myGame\\build\\generated\\myGame\\main\\src\\apt\\java",
+        "jdk.home": "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\extract.cache\\3f354780d9-OpenJDK25U-jdk_x64_windows_hotspot_25.0.5_8.zip.069001.d\\jdk-25.0.5+8",
+        "jdk.version": "25.0.5",
+        "target.platforms": "JVM",
+        "task.output.root": "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm",
+        "user.settings": "{\"kotlin\":{\"compilerVersion\":\"2.4.20\",\"languageVersion\":null,\"apiVersion\":null,\"compileIncrementally\":true,\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"explicitApi\":\"Disable\",\"debug\":null,\"optimization\":null,\"verbose\":false,\"progressiveMode\":false,\"linkerOptions\":[],\"languageFeatures\":[],\"optIns\":[],\"storeJavaParameterNames\":false,\"freeCompilerArgs\":[],\"compilerPlugins\":[]},\"jvmRelease\":25,\"java\":{\"freeCompilerArgs\":[],\"annotationProcessorOptions\":{},\"compileIncrementally\":false}}"
+    },
+    "inputFiles": [
+        "C:\\tmp\\myGame\\src",
+        "C:\\tmp\\myGame\\resources",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar": "size 25718 mtime 2026-10-27T17:12:47.0777944Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-29T08:25:44.6073538Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar": "size 963 mtime 2026-10-27T17:12:47.346775Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar": "size 968 mtime 2026-10-27T17:12:47.3711117Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-06T08:24:52.0920965Z",
+        "C:\\tmp\\myGame\\resources": "MISSING",
+        "C:\\tmp\\myGame\\src\\Area.kt": "size 40 mtime 2026-11-06T11:35:52.715Z",
+        "C:\\tmp\\myGame\\src\\Game.kt": "size 126 mtime 2026-11-06T11:35:52.745Z",
+        "C:\\tmp\\myGame\\src\\Main.kt": "size 961 mtime 2026-11-06T12:09:15.613Z",
+        "C:\\tmp\\myGame\\src\\Shot.kt": "size 40 mtime 2026-11-06T11:35:52.727Z",
+        "C:\\tmp\\myGame\\src\\SpaceShip.kt": "size 78 mtime 2026-11-06T11:59:03.466Z"
+    },
+    "outputValues": {
+        "jvmCompilerBuildProblems": "[{\"type\":\"org.jetbrains.amper.compilation.FileCompilerBuildProblem\",\"moduleName\":\"myGame\",\"message\":\"Expression is unused.\",\"level\":\"Warning\",\"source\":{\"file\":\"C:\\\\tmp\\\\myGame\\\\src\\\\Main.kt\",\"line\":28,\"column\":13,\"lineEnd\":28,\"columnEnd\":19}}]"
+    },
+    "outputFiles": [
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Area.class": "size 1910 mtime 2026-11-06T11:49:00.7295327Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Game.class": "size 3813 mtime 2026-11-06T11:59:09.3319225Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\META-INF\\myGame.kotlin_module": "size 36 mtime 2026-11-06T12:09:20.6509462Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\MainKt.class": "size 3328 mtime 2026-11-06T12:09:20.649947Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Shot.class": "size 1910 mtime 2026-11-06T11:49:00.731566Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\SpaceShip.class": "size 1936 mtime 2026-11-06T11:59:09.3329194Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

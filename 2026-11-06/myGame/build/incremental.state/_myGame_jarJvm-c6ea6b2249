@@ -1,0 +1,28 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Area.class": "size 1910 mtime 2026-11-06T11:49:00.7295327Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Game.class": "size 3813 mtime 2026-11-06T11:59:09.3319225Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\META-INF\\myGame.kotlin_module": "size 36 mtime 2026-11-06T12:09:20.6509462Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\MainKt.class": "size 3328 mtime 2026-11-06T12:09:20.649947Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Shot.class": "size 1910 mtime 2026-11-06T11:49:00.731566Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\SpaceShip.class": "size 1936 mtime 2026-11-06T11:59:09.3329194Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar": "size 7940 mtime 2026-11-06T12:09:20.8409803Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
