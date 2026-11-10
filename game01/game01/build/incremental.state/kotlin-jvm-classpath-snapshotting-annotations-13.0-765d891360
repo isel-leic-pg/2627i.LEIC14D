@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-26T10:45:44.2939956Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\build\\ic-cache\\classpath-snapshots\\annotations-13.0.jar-f0be560a4b483e06fa89e992648038e83da663c556549326f30868c27ef8b537.abi"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\pg\\game01\\game01\\build\\ic-cache\\classpath-snapshots\\annotations-13.0.jar-f0be560a4b483e06fa89e992648038e83da663c556549326f30868c27ef8b537.abi": "size 10404 mtime 2026-11-10T09:08:28.0247844Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

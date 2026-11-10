@@ -1,0 +1,39 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-impl\\2.4.20\\kotlin-build-tools-impl-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-api\\2.4.20\\kotlin-build-tools-api-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-cri-impl\\2.4.20\\kotlin-build-tools-cri-impl-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-tooling-core\\2.4.20\\kotlin-tooling-core-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.4.20\\kotlin-compiler-embeddable-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-runner\\2.4.20\\kotlin-compiler-runner-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.4.20\\kotlin-script-runtime-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.4.20\\kotlin-daemon-embeddable-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-client\\2.4.20\\kotlin-daemon-client-2.4.20.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar": "size 29371 mtime 2026-09-26T10:46:46.7124762Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-api\\2.4.20\\kotlin-build-tools-api-2.4.20.jar": "size 468126 mtime 2026-10-08T11:21:43.2434644Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-cri-impl\\2.4.20\\kotlin-build-tools-cri-impl-2.4.20.jar": "size 568962 mtime 2026-10-08T11:21:43.0603175Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-build-tools-impl\\2.4.20\\kotlin-build-tools-impl-2.4.20.jar": "size 3455815 mtime 2026-10-08T11:21:43.0645853Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.4.20\\kotlin-compiler-embeddable-2.4.20.jar": "size 58593245 mtime 2026-10-08T11:21:43.7583147Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-runner\\2.4.20\\kotlin-compiler-runner-2.4.20.jar": "size 20366 mtime 2026-10-08T11:21:43.0382916Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-client\\2.4.20\\kotlin-daemon-client-2.4.20.jar": "size 265892 mtime 2026-10-08T11:21:43.035584Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.4.20\\kotlin-daemon-embeddable-2.4.20.jar": "size 393409 mtime 2026-10-08T11:21:43.3575581Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2026-09-26T10:46:46.6979566Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.4.20\\kotlin-script-runtime-2.4.20.jar": "size 46531 mtime 2026-10-08T11:21:42.9283085Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-08T11:21:41.045101Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-tooling-core\\2.4.20\\kotlin-tooling-core-2.4.20.jar": "size 89152 mtime 2026-10-08T11:21:43.0680999Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2026-09-26T10:46:45.8828556Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

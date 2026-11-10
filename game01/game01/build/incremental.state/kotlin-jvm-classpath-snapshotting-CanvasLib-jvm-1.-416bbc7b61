@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar": "size 25718 mtime 2026-10-29T23:49:33.3215196Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\build\\ic-cache\\classpath-snapshots\\CanvasLib-jvm-1.0.2.jar-33fad42e3c6279fad2d3a6ce363276a1bb9ea4f4bc7bca7930ffc05a2c087a25.abi"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\pg\\game01\\game01\\build\\ic-cache\\classpath-snapshots\\CanvasLib-jvm-1.0.2.jar-33fad42e3c6279fad2d3a6ce363276a1bb9ea4f4bc7bca7930ffc05a2c087a25.abi": "size 1966 mtime 2026-11-10T09:08:28.0448801Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

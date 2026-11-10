@@ -1,0 +1,3 @@
+product: jvm/app
+dependencies:
+  - io.github.palex65:CanvasLib-jvm:1.0.2

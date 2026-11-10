@@ -1,0 +1,30 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\tmp\\pg\\game01\\game01\\build\\tasks\\_game01_jarJvm\\game01-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Area.class": "size 1910 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\ConstantsKt.class": "size 884 mtime 2026-11-10T10:08:45.0736007Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Game.class": "size 3813 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\META-INF\\game01.kotlin_module": "size 62 mtime 2026-11-10T10:40:18.794038Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\MainKt.class": "size 3519 mtime 2026-11-10T10:40:18.794038Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Shot.class": "size 1910 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\SpaceShip.class": "size 2469 mtime 2026-11-10T10:37:09.6239823Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\SpaceShipKt.class": "size 1431 mtime 2026-11-10T10:37:09.6239823Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\build\\tasks\\_game01_jarJvm\\game01-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\pg\\game01\\game01\\build\\tasks\\_game01_jarJvm\\game01-jvm.jar": "size 9928 mtime 2026-11-10T10:40:18.8894912Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

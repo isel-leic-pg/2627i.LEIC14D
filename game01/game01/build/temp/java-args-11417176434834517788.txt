@@ -1,0 +1,12 @@
+-cp
+C:\tmp\pg\game01\game01\build\tasks\_game01_jarJvm\game01-jvm.jar;C:\Users\samad\AppData\Local\JetBrains\Kotlin\.m2.cache\io\github\palex65\CanvasLib-jvm\1.0.2\CanvasLib-jvm-1.0.2.jar;C:\Users\samad\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\samad\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.8.0\kotlin-stdlib-jdk8-1.8.0.jar;C:\Users\samad\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\samad\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.8.0\kotlin-stdlib-jdk7-1.8.0.jar
+-ea
+-agentlib:jdwp=transport=dt_socket,address=57722,suspend=y,server=y
+-javaagent:C:\Users\samad\AppData\Local\JetBrains\IntelliJIdea2026.2\captureAgent\debugger-agent.jar=file:///C:/Users/samad/AppData/Local/Temp/capture14040423054239194544.props
+-Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+-Ddebugger.agent.enable.coroutines=true
+-Dkotlinx.coroutines.debug.enable.flows.stack.trace=true
+-Dkotlinx.coroutines.debug.enable.mutable.state.flows.stack.trace=true
+-Ddebugger.async.stack.trace.for.all.threads=true
+-Ddebugger.agent.enable.log.capture=true
+MainKt

@@ -1,0 +1,52 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "java.annotation.processor.generated.dir": "C:\\tmp\\pg\\game01\\game01\\build\\generated\\game01\\main\\src\\apt\\java",
+        "jdk.home": "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\extract.cache\\9aee15192d-zulu25.38.109-ca-jdk25.0.5.0.3-win_aarch64.zip.dba174.d\\zulu25.38.109-ca-jdk25.0.5.0.3-win_aarch64",
+        "jdk.version": "25.0.5.0.3",
+        "target.platforms": "JVM",
+        "task.output.root": "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm",
+        "user.settings": "{\"kotlin\":{\"compilerVersion\":\"2.4.20\",\"languageVersion\":null,\"apiVersion\":null,\"compileIncrementally\":true,\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"explicitApi\":\"Disable\",\"debug\":null,\"optimization\":null,\"verbose\":false,\"progressiveMode\":false,\"linkerOptions\":[],\"languageFeatures\":[],\"optIns\":[],\"storeJavaParameterNames\":false,\"freeCompilerArgs\":[],\"compilerPlugins\":[]},\"jvmRelease\":25,\"java\":{\"freeCompilerArgs\":[],\"annotationProcessorOptions\":{},\"compileIncrementally\":false}}"
+    },
+    "inputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\src",
+        "C:\\tmp\\pg\\game01\\game01\\resources",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar": "size 25718 mtime 2026-10-29T23:49:33.3215196Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-26T10:45:44.2939956Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar": "size 963 mtime 2026-10-29T23:49:33.9383385Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar": "size 968 mtime 2026-10-29T23:49:33.9383385Z",
+        "C:\\Users\\samad\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-08T11:21:41.045101Z",
+        "C:\\tmp\\pg\\game01\\game01\\resources": "MISSING",
+        "C:\\tmp\\pg\\game01\\game01\\src\\Area.kt": "size 40 mtime 2026-11-10T09:44:50.143Z",
+        "C:\\tmp\\pg\\game01\\game01\\src\\Constants.kt": "size 396 mtime 2026-11-10T10:08:40.221Z",
+        "C:\\tmp\\pg\\game01\\game01\\src\\Game.kt": "size 126 mtime 2026-11-10T09:43:30.559Z",
+        "C:\\tmp\\pg\\game01\\game01\\src\\Main.kt": "size 660 mtime 2026-11-10T10:40:14.19Z",
+        "C:\\tmp\\pg\\game01\\game01\\src\\Shot.kt": "size 41 mtime 2026-11-10T09:44:50.152Z",
+        "C:\\tmp\\pg\\game01\\game01\\src\\SpaceShip.kt": "size 1031 mtime 2026-11-10T10:37:04.984Z"
+    },
+    "outputValues": {
+        "jvmCompilerBuildProblems": "[]"
+    },
+    "outputFiles": [
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Area.class": "size 1910 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\ConstantsKt.class": "size 884 mtime 2026-11-10T10:08:45.0736007Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Game.class": "size 3813 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\META-INF\\game01.kotlin_module": "size 62 mtime 2026-11-10T10:40:18.794038Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\MainKt.class": "size 3519 mtime 2026-11-10T10:40:18.794038Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\Shot.class": "size 1910 mtime 2026-11-10T09:53:05.7498014Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\SpaceShip.class": "size 2469 mtime 2026-11-10T10:37:09.6239823Z",
+        "C:\\tmp\\pg\\game01\\game01\\build\\artifacts\\CompiledJvmArtifact\\game01jvm\\kotlin-output\\SpaceShipKt.class": "size 1431 mtime 2026-11-10T10:37:09.6239823Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
