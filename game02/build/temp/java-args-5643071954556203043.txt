@@ -1,0 +1,4 @@
+-cp
+C:\tmp\myGame\build\tasks\_myGame_jarJvm\myGame-jvm.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\io\github\palex65\CanvasLib-jvm\1.0.2\CanvasLib-jvm-1.0.2.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib\2.4.20\kotlin-stdlib-2.4.20.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.8.0\kotlin-stdlib-jdk8-1.8.0.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\luis.damas\AppData\Local\JetBrains\Kotlin\.m2.cache\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.8.0\kotlin-stdlib-jdk7-1.8.0.jar
+-ea
+MainKt

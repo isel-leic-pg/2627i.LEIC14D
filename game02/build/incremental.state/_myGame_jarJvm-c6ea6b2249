@@ -1,0 +1,32 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "inputDirsDestPaths": "[.]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output"
+    ],
+    "inputFilesState": {
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Area.class": "size 2461 mtime 2026-11-09T09:08:01.8020347Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\ConstantsKt.class": "size 584 mtime 2026-11-13T11:22:46.932253Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Game.class": "size 3813 mtime 2026-11-13T12:00:30.8957554Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\GameKt.class": "size 2037 mtime 2026-11-13T12:00:30.8967551Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\META-INF\\myGame.kotlin_module": "size 78 mtime 2026-11-13T12:01:05.8579268Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\MainKt.class": "size 3279 mtime 2026-11-13T12:01:05.8569259Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\Shot.class": "size 3371 mtime 2026-11-13T12:01:05.8569259Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\ShotKt.class": "size 1620 mtime 2026-11-13T12:01:05.8569259Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\SpaceShip.class": "size 2469 mtime 2026-11-13T12:00:30.8977548Z",
+        "C:\\tmp\\myGame\\build\\artifacts\\CompiledJvmArtifact\\myGamejvm\\kotlin-output\\SpaceShipKt.class": "size 1829 mtime 2026-11-13T12:00:30.8987549Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\myGame\\build\\tasks\\_myGame_jarJvm\\myGame-jvm.jar": "size 13014 mtime 2026-11-13T12:01:05.9960233Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

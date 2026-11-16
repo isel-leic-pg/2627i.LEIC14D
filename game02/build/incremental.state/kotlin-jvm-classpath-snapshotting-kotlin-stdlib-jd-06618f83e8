@@ -1,0 +1,21 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "kotlinVersion": "2.4.20"
+    },
+    "inputFiles": [
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar": "size 968 mtime 2026-10-27T17:12:47.3711117Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\tmp\\myGame\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-jdk8-1.8.0.jar-2d57f60fadd2731625f8616b10ddd561684b85b736f072ca77c95f20f135507d.abi"
+    ],
+    "outputFilesState": {
+        "C:\\tmp\\myGame\\build\\ic-cache\\classpath-snapshots\\kotlin-stdlib-jdk8-1.8.0.jar-2d57f60fadd2731625f8616b10ddd561684b85b736f072ca77c95f20f135507d.abi": "size 4 mtime 2026-11-06T11:15:34.2740878Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

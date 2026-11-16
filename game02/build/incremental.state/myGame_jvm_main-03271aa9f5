@@ -1,0 +1,33 @@
+{
+    "codeVersion": "0.13.0",
+    "inputValues": {
+        "dependencies": "io.github.palex65:CanvasLib-jvm:1.0.2|org.jetbrains.kotlin:kotlin-stdlib:2.4.20|io.github.palex65:CanvasLib-jvm:1.0.2|org.jetbrains.kotlin:kotlin-stdlib:2.4.20",
+        "excludedDependencies": "",
+        "repositories": "https://repo1.maven.org/maven2|https://maven.google.com",
+        "resolveNativeTarget": "",
+        "resolvePlatform": "jvm",
+        "resolveWasmTarget": "",
+        "userCacheRoot": "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {
+        "serializedOutput": "{\"compileClasspath\":[\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\io\\\\github\\\\palex65\\\\CanvasLib-jvm\\\\1.0.2\\\\CanvasLib-jvm-1.0.2.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib-jdk8\\\\1.8.0\\\\kotlin-stdlib-jdk8-1.8.0.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib-jdk7\\\\1.8.0\\\\kotlin-stdlib-jdk7-1.8.0.jar\"],\"runtimeClasspath\":[\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\io\\\\github\\\\palex65\\\\CanvasLib-jvm\\\\1.0.2\\\\CanvasLib-jvm-1.0.2.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib\\\\2.4.20\\\\kotlin-stdlib-2.4.20.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib-jdk8\\\\1.8.0\\\\kotlin-stdlib-jdk8-1.8.0.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\annotations\\\\13.0\\\\annotations-13.0.jar\",\"C:\\\\Users\\\\luis.damas\\\\AppData\\\\Local\\\\JetBrains\\\\Kotlin\\\\.m2.cache\\\\org\\\\jetbrains\\\\kotlin\\\\kotlin-stdlib-jdk7\\\\1.8.0\\\\kotlin-stdlib-jdk7-1.8.0.jar\"],\"coordinateOverridesForPublishing\":{}}"
+    },
+    "outputFiles": [
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\io\\github\\palex65\\CanvasLib-jvm\\1.0.2\\CanvasLib-jvm-1.0.2.jar": "size 25718 mtime 2026-10-27T17:12:47.0777944Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\annotations\\13.0\\annotations-13.0.jar": "size 17536 mtime 2026-09-29T08:25:44.6073538Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk7\\1.8.0\\kotlin-stdlib-jdk7-1.8.0.jar": "size 963 mtime 2026-10-27T17:12:47.346775Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib-jdk8\\1.8.0\\kotlin-stdlib-jdk8-1.8.0.jar": "size 968 mtime 2026-10-27T17:12:47.3711117Z",
+        "C:\\Users\\luis.damas\\AppData\\Local\\JetBrains\\Kotlin\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.4.20\\kotlin-stdlib-2.4.20.jar": "size 1853314 mtime 2026-10-06T08:24:52.0920965Z"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
